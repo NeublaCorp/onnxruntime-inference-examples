@@ -428,3 +428,11 @@ fastlane/test_output
 
 *.ort
 *.dylib
+
+### onnx
+*.onnx
+*.json
+
+### torch
+*.pth
+
